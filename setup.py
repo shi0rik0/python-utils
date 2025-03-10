@@ -9,5 +9,4 @@ setup(
         "matplotlib",
     ],
     python_requires=">=3.8",
-    license="MIT",
 )
